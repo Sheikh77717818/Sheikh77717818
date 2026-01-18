@@ -23,8 +23,6 @@ I am a First Year Computing Student at Universiti Teknologi Malaysia (UTM) and a
 | **Assignment 4: Industry Webinars** <br> *(Clarity & AirAsia)* | [Clarity Techworks Poster](Poster_Clarity.pdf) <br> [AirAsia Poster](Poster_AirAsia.pdf) <br> *Due: 29 Jan 2026* | **Insight:** Learned how ICT professionals drive innovation in Aviation and Enterprise (ERP). <br> **Motivation:** Seeing AirAsia's data usage and Clarity's systems motivated me to focus on Cloud Computing skills. |
 | **Design Thinking Project** <br> *(Group: Enough Thinking)* | [Project Report](Report_DesignThinking.pdf) <br> [Demo Video](Link_to_Video) <br> | **Goal:** To become a Solution Architect who builds user-centric systems. <br> **Impact:** This project taught me that "Empathy" is just as important as writing code. <br> **Action Plan:** I will participate in UI/UX workshops to practice rapid prototyping. |
 
-### 🏆 Certificates & Awards
-* [Certificate Name] - [Provider], 2025
 
 ---
 *Connect with me on [LinkedIn](https://www.linkedin.com/in/abdulrahman-khaled-abdullah-sheikh-753328338)*
